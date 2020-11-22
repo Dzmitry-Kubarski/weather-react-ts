@@ -10,7 +10,7 @@ import App from './App';
 import store from './store';
 
 // styles
-import './index.scss';
+import './styles/index.scss';
 
 
 ReactDOM.render(
