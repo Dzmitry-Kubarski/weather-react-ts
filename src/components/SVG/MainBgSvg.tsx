@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { FC } from 'react';
 
-const MainBgSvg = () => {
+
+const MainBgSvg: FC = () => {
     return (
         <svg version="1.1" className='main-bg' xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
             width="696" height="497" viewBox="0 0 2800 2000" enableBackground="new 0 0 2800 2000" >
